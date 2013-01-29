@@ -1,5 +1,0 @@
-StartTime: 2013-01-24 17:35
-End Time: 2013-01-24 23:30
-Time Taken:    Days: 0    Minutes:    354    Seconds    29 
-Tenders scraped: 53664 
-firstTenderURL: 73416
