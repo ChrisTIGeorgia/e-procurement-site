@@ -1,0 +1,9 @@
+StartTime: 2013-03-04 17:28
+End Time: 2013-03-04 17:28
+Time Taken:    Days: 0    Minutes:    0    Seconds    26 
+Tenders scraped: 47 
+Orgs scraped: 24 
+bidders scraped: 0 
+agreements scraped: 0 
+documents scraped: 51 
+firstTenderURL: 77079
